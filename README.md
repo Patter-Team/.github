@@ -63,14 +63,14 @@
 
 ## 🛠 Stack & Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,nodejs,nestjs,postgres,docker,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,java,js,ts,react,nodejs,nestjs,postgres,docker,prisma,redis,github&theme=dark)](https://skillicons.dev)
 
 <br/>
 
 | Camada | Tecnologias |
 |:---:|:---:|
-| **Frontend** | React · React Native · JavaScript · TypeScript |
-| **Backend** | NestJS · Node.js · Java |
+| **Frontend** | Figma · React · React Native · JavaScript · TypeScript |
+| **Backend** | NestJS · Node.js · Java · Prisma |
 | **Banco de Dados** | PostgreSQL |
 | **DevOps & Infra** | Docker · GitHub Actions |
 | **Controle de Versão** | Git · GitHub |

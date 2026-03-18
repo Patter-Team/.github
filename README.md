@@ -15,8 +15,6 @@ Transformar conhecimento em prática, fomentando inovação, crescimento profiss
 - 🤝 Incentivo ao **trabalho em equipe e compartilhamento de conhecimento**  
 - 🌱 Aprendizado contínuo em novas tecnologias  
 
-![Teamwork GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
 ---
 
 ## 🛠 Tecnologias e Skills
@@ -43,8 +41,8 @@ Transformar conhecimento em prática, fomentando inovação, crescimento profiss
 ---
 
 ## 📊 Estatísticas do GitHub
-![Patter Team GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatterTeam&show_icons=true&theme=radical)
-![Patter Team Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatterTeam&layout=compact&theme=radical)
+![Patter Team GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patter-Team&show_icons=true&theme=radical)
+![Patter Team Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patter-Team&layout=compact&theme=radical)
 
 ---
 

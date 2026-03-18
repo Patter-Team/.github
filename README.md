@@ -81,22 +81,7 @@
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patter-Team&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patter-Team&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Patter-Team&theme=tokyonight&border_radius=12&hide_border=false" height="180em"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patter-Team&theme=tokyo-night&radius=12&hide_border=false" width="95%"/>
-
-</div>
-
----
 
 <div align="center">
 

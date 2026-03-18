@@ -1,11 +1,11 @@
-# 👋 Olá, somos a Patter Team!  
+# 👋 Olá, somos a **Patter Team!**  
 
-**Patter Team** é uma equipe acadêmica dedicada a desenvolver projetos inovadores que fortalecem habilidades, promovem aprendizado prático e incentivam a colaboração entre seus membros.
+**Patter Team** é uma equipe acadêmica que desenvolve projetos inovadores para aprimorar habilidades, promover aprendizado prático e incentivar a colaboração entre seus membros.
 
 ---
 
 ## 🎯 Nossa Missão
-Transformar conhecimento em prática, fomentando inovação, crescimento profissional e impacto positivo na comunidade.
+Transformar conhecimento em prática, promovendo inovação, aprendizado contínuo e impacto positivo na comunidade.
 
 ---
 
@@ -15,20 +15,21 @@ Transformar conhecimento em prática, fomentando inovação, crescimento profiss
 - 🤝 Incentivo ao **trabalho em equipe e compartilhamento de conhecimento**  
 - 🌱 Aprendizado contínuo em novas tecnologias  
 
+![Collaboration GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
 ---
 
 ## 🛠 Tecnologias e Skills
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Coding GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=2A2A2A&radius=10)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2A2A2A&radius=10)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2A2A2A&radius=10)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=2A2A2A&radius=10)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2A2A2A&radius=10)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2A&radius=10)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2A2A2A&radius=10)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2A2A2A&radius=10)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=2A2A2A&radius=10)
 
 ---
 
@@ -41,8 +42,9 @@ Transformar conhecimento em prática, fomentando inovação, crescimento profiss
 ---
 
 ## 📊 Estatísticas do GitHub
-![Patter Team GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patter-Team&show_icons=true&theme=radical)
-![Patter Team Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patter-Team&layout=compact&theme=radical)
+
+[![GitHub Org Stats](https://github-readme-stats.vercel.app/api?username=Patter-Team&show_icons=true&theme=radical)](https://github.com/Patter-Team)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patter-Team&layout=compact&theme=radical)](https://github.com/Patter-Team)
 
 ---
 
